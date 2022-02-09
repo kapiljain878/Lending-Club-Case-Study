@@ -38,7 +38,6 @@ Here we will be using Exploratory Data Analysis to find key drivers which can he
 - pandas - 1.3.4
 - numpy - 1.20.3
 - seaborn - 0.11.2
-- hvplot - 0.7.3
 - matplotlib : 3.4.3
 
 ## Acknowledgements
