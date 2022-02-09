@@ -33,6 +33,13 @@ Here we will be using Exploratory Data Analysis to find key drivers which can he
 
 ## Conclusions
 
+- Around **85%**  applicants have fully paid back the loan while rest **15%** are charged off.
+- More amount of loan should be given for **wedding** purpose since default rate is very low and number of loans are quite less in this category, same is true for **car** loans.
+- **Renewable Energy** loans applications are already less they should be completely avoided.
+- **Higher interest** rate and **Higher amount** loans should be given to applicants with **higher annual income** as they have capability to pay off loans as this has negative correlation with **dti** since monthly income is greater
+- The employeer reputation is also a driver, hence applicants from reputed organisations like **US Army** etc should be given prefernece.
+- Applications approved in **December** should be scrutnized more since they are having higher ***defaults***.
+
 ## Technologies Used
 
 - pandas - 1.3.4
