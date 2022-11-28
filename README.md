@@ -54,4 +54,4 @@ Here we will be using Exploratory Data Analysis to find key drivers which can he
 
 ## Contact
 
-Created by [@jaskirat8] and [@kapiljain2825] - feel free to contact us!
+Created by [@jaskirat8] and [@kapiljain878] - feel free to contact us!
